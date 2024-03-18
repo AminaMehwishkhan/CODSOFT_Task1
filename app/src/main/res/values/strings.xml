@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Perfect Flashlight App</string>
+    <string name="turn_on">Turn on</string>
+    <string name="shows_flashlight_image">Shows flashlight image</string>
+    <string name="button">Button</string>
+    <string name="turn_off">turn off</string>
+</resources>
